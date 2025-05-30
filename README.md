@@ -1,4 +1,4 @@
-# Readme file for the model associated with
+Readme file for the model associated with
 
 D'Angelo E, Nieus T, Maffei A, Armano S, Rossi P, Taglietti V,
 Fontana A, Naldi G (2001) Theta-frequency bursting and resonance
